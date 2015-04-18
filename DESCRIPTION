@@ -1,0 +1,10 @@
+Package: contfractr
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1
+Date: 2015-04-18
+Author: Your name goes here
+Maintainer: person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: TRUE
